@@ -1,0 +1,4 @@
+name: NoTP
+version: ${project.version}
+main: me.simondmc.notp.NoTP
+api-version: 1.16
